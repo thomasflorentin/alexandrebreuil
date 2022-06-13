@@ -1,0 +1,42 @@
+/* ----- WPML Language Switcher ----- */
+.conatainer_language_selector { cursor: pointer; color: #969696; position: absolute; top: 15px; right: 0; margin: auto; height: 10px; z-index: 1; }
+.conatainer_language_selector:hover { color: #000; }
+#flags_language_selector { float: left; position: relative; }
+
+.current_language { font: 700 12px/1 Novecentowide, sans-serif; text-transform: uppercase; margin-bottom: 3px; padding: 0 15px 5px 0; }
+.current_language:after { content: "["; font-family: WebSymbolsRegular, sans-serif; padding-left: 6px; position: absolute; font-size: 12px; }
+
+#lang_ul { display: none; position: absolute; width: inherit; border-radius: 4px; min-width: 100px; margin: 0; padding: 0; list-style: none; }
+.language-li { background-color: #000; opacity: 0.9; cursor: pointer; clear: both; }
+.language-li:last-child { border-bottom: 0 none; }
+
+.language-name { clear: both; display: block; font: 500 11px/1.25 Novecentowide, sans-serif; color: #bababa; text-transform: uppercase; padding: 5px 50px 5px 10px; }
+.language-name:hover { font-weight: 700; color: #000; }
+
+.language-li:hover a { text-decoration: none; }
+.language-li:hover { background-color: #b9baba; opacity: 1; }
+.language-li:first-child { border-radius: 4px 4px 0 0; }
+.language-li:last-child { border-radius: 0 0 4px 4px; }
+.language-li:only-child { border-radius: 4px; }
+
+#flags_language_selector:hover #lang_ul { display: block; }
+.language-name { }
+.active_lng { }
+
+@media (max-width: 1280px) {
+	#lang_ul { left: auto; right: 0; }
+}
+
+@media (max-width: 720px) {
+	.conatainer_language_selector { clear: both; display: block; width: 100%; position: relative; left: auto; right: auto; top: auto; bottom: auto; height: auto; margin: 25px auto; }
+	.current_language { padding: 15px; background-color: #EEE; font-size: 18px; color: #000; }
+	.current_language:after { font-size: 18px; }
+	#flags_language_selector { float: none; }
+	
+	#flags_language_selector:hover #lang_ul { display: none; }
+	#flags_language_selector.toggled-on #lang_ul { display: block; position: relative; }
+	#flags_language_selector.toggled-on .language-li { display: block; border-radius: 0; background-color: transparent; opacity: 1; color: #969696; }
+	#flags_language_selector.toggled-on .language-li:hover { background-color: #EEE; }
+	#flags_language_selector.toggled-on .language-li:hover span { color: #000; }
+	#flags_language_selector.toggled-on .language-name { clear: both; display: block; font: 400 100%/1 Roboto, sans-serif; color: #000; text-transform: none; padding: 15px; }
+}

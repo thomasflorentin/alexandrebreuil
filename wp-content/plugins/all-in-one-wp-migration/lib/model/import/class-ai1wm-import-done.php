@@ -60,8 +60,6 @@ class Ai1wm_Import_Done {
 						ai1wm_discover_plugin_basename( 'force-https-littlebizzy/force-https.php' ),
 					)
 				);
-
-				ai1wm_woocommerce_force_ssl( false );
 			}
 
 			// Deactivate WordPress plugins
@@ -166,8 +164,6 @@ class Ai1wm_Import_Done {
 							ai1wm_discover_plugin_basename( 'force-https-littlebizzy/force-https.php' ),
 						)
 					);
-
-					ai1wm_woocommerce_force_ssl( false );
 				}
 
 				// Deactivate WordPress plugins
@@ -275,8 +271,6 @@ class Ai1wm_Import_Done {
 							ai1wm_discover_plugin_basename( 'force-https-littlebizzy/force-https.php' ),
 						)
 					);
-
-					ai1wm_woocommerce_force_ssl( false );
 				}
 
 				// Deactivate WordPress plugins
@@ -343,11 +337,6 @@ class Ai1wm_Import_Done {
 			}
 		}
 
-		// Clear auth cookie (WP Cerber)
-		if ( ai1wm_validate_plugin_basename( 'wp-cerber/wp-cerber.php' ) ) {
-			wp_clear_auth_cookie();
-		}
-
 		$should_reset_permalinks = false;
 
 		// Switch to default permalink structure
@@ -363,8 +352,6 @@ class Ai1wm_Import_Done {
 		} else {
 			Ai1wm_Status::done( __( 'Your site has been imported successfully!', AI1WM_PLUGIN_NAME ), Ai1wm_Template::get_content( 'import/done', array( 'should_reset_permalinks' => $should_reset_permalinks ) ) );
 		}
-
-		do_action( 'ai1wm_status_import_done', $params );
 
 		return $params;
 	}

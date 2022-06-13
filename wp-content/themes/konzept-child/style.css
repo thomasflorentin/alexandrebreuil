@@ -1,0 +1,67 @@
+/*
+Theme Name: Konzept Child
+Theme URI:
+Author: Flow
+Author URI:
+Description: Child theme for Konzept theme.
+Template: konzept
+Version: 1.3
+License: GPLv2
+License URI:
+Tags:
+Text Domain:
+*/
+
+@import url("../konzept/style.css");
+
+a.sharing-icons-googleplus {
+	display: none;
+}
+
+
+/*style => L 1362*/
+
+/*.element {
+    width: 12.5%;
+    max-width: 200px;
+}*/
+
+
+/*style => L 1372*/
+
+/*.thumbnail-plus {
+    font-size: 138%;
+    padding: 0 0 28px 32px;
+    line-height: 0.5;
+    font-weight: 700;
+}*/
+
+
+/*style => L 1369*/
+/*.element .symbol {
+    font: 700 212.5%/0.8125 Novecentowide, sans-serif;
+}*/
+
+
+/*style => L 1371*/
+/*.element .categories {
+    margin-top: 10px;
+    font: 600 68.75%/1 Novecentowide, sans-serif;
+}*/
+
+
+/*style => L 1368
+MARGE DES BLOCS*/
+/*.element .thumbnail-meta-data-wrapper {
+    padding: 16px 16px 0 16px;
+}*/
+
+
+/*style => L 1372
+/MARGE DES +*/
+/*.thumbnail-plus {
+    font-size: 138%;
+    padding: 0 0 28px 16px;
+    line-height: 0.5;
+    font-weight: 700;
+}*/

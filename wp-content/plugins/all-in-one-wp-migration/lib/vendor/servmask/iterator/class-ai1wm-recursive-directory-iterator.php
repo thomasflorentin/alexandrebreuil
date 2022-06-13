@@ -36,7 +36,6 @@ class Ai1wm_Recursive_Directory_Iterator extends RecursiveDirectoryIterator {
 		$this->skipdots();
 	}
 
-	#[\ReturnTypeWillChange]
 	public function rewind() {
 		parent::rewind();
 
@@ -44,7 +43,6 @@ class Ai1wm_Recursive_Directory_Iterator extends RecursiveDirectoryIterator {
 		$this->skipdots();
 	}
 
-	#[\ReturnTypeWillChange]
 	public function next() {
 		parent::next();
 
@@ -60,7 +58,6 @@ class Ai1wm_Recursive_Directory_Iterator extends RecursiveDirectoryIterator {
 	 *
 	 * @return bool
 	 */
-	#[\ReturnTypeWillChange]
 	public function hasChildren( $allow_links = true ) {
 		return parent::hasChildren( $allow_links );
 	}

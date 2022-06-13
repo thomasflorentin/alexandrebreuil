@@ -1,0 +1,1461 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Konzept\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-01 01:06+0100\n"
+"PO-Revision-Date: 2013-09-01 01:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_x;_n;_ex;__;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:20
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: archive.php:23
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:29
+msgid "F Y"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:31
+msgid "Y"
+msgstr ""
+
+#: archive.php:33
+msgid "Archives"
+msgstr ""
+
+#: comments.php:20
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:21
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:30
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:31
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:42
+msgid "There are no comments yet, add one below."
+msgstr ""
+
+#: content-none.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content.php:28 single.php:16
+msgid "1k+"
+msgstr ""
+
+#: content.php:35
+#, php-format
+msgid ""
+"Written by <a href=\"%1$s\" title=\"View all posts by %2$s\" rel=\"author\">"
+"%2$s</a>"
+msgstr ""
+
+#: content.php:40
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content.php:47
+msgid "Edit"
+msgstr ""
+
+#: content.php:64
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:65 page.php:18 single.php:33
+msgid "Pages:"
+msgstr ""
+
+#: header-compact.php:28 header.php:116
+msgid "Back"
+msgstr ""
+
+#: header-compact.php:31
+msgid "Search"
+msgstr ""
+
+#: header-compact.php:39
+msgid "Press Enter to Search"
+msgstr ""
+
+#: header.php:34
+msgid "Menu"
+msgstr ""
+
+#: header.php:60
+msgid "All Works"
+msgstr ""
+
+#: header.php:123
+msgid "Back to Top"
+msgstr ""
+
+#: project-container.php:74 project-loop.php:182
+msgid "Date"
+msgstr ""
+
+#: project-container.php:78 project-loop.php:186
+msgid "Client"
+msgstr ""
+
+#: project-container.php:82 project-loop.php:190
+msgid "Agency"
+msgstr ""
+
+#: project-container.php:88
+msgid "Our Role"
+msgstr ""
+
+#: project-container.php:111 core/nav.php:47
+msgid "Previous"
+msgstr ""
+
+#: project-container.php:112 core/nav.php:48
+msgid "Next"
+msgstr ""
+
+#: project-loop.php:196
+msgid "Our role"
+msgstr ""
+
+#: recent-posts.php:12
+msgid "Recent Projects"
+msgstr ""
+
+#: recent-posts.php:14
+msgid "View Portfolio"
+msgstr ""
+
+#: recent-posts.php:111
+msgid "New Blog Posts"
+msgstr ""
+
+#: recent-posts.php:113
+msgid "View Blog"
+msgstr ""
+
+#: search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: admin/metaboxes.php:22
+msgid "Post Options"
+msgstr ""
+
+#: admin/metaboxes.php:23
+msgid "Page Options"
+msgstr ""
+
+#: admin/metaboxes.php:24
+msgid "Project Settings"
+msgstr ""
+
+#: admin/metaboxes.php:25
+msgid "Slide Options"
+msgstr ""
+
+#: admin/metaboxes.php:39 admin/metaboxes.php:52 admin/metaboxes.php:102
+#: admin/metaboxes.php:103 admin/metaboxes.php:156
+#: admin/superslide/superslide.php:33 admin/superslide/superslide.php:47
+#: admin/superslide/superslide.php:61
+msgid "Description"
+msgstr ""
+
+#: admin/metaboxes.php:39
+msgid ""
+"You can add description to your post using this custom field. It will be "
+"displayed below the title. It's optional."
+msgstr ""
+
+#: admin/metaboxes.php:40 admin/metaboxes.php:157
+msgid "Layout:"
+msgstr ""
+
+#: admin/metaboxes.php:40 admin/metaboxes.php:157
+msgid "No Sidebar"
+msgstr ""
+
+#: admin/metaboxes.php:40 admin/metaboxes.php:157
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/metaboxes.php:40 admin/metaboxes.php:157
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/metaboxes.php:40
+msgid "Pick post layout here."
+msgstr ""
+
+#: admin/metaboxes.php:51 admin/metaboxes.php:101
+msgid "Title"
+msgstr ""
+
+#: admin/metaboxes.php:52
+msgid "Slide description."
+msgstr ""
+
+#: admin/metaboxes.php:55
+msgid "Image (JPG/PNG):"
+msgstr ""
+
+#: admin/metaboxes.php:55
+msgid ""
+"(Required) Recommended size is HD (like 1920 x 1080 pixels) and no more than "
+"100-200 kB. If you specify video links below, this image will act as video "
+"poster."
+msgstr ""
+
+#: admin/metaboxes.php:57
+msgid "Video (MP4):"
+msgstr ""
+
+#: admin/metaboxes.php:58
+msgid "Video (OGG):"
+msgstr ""
+
+#: admin/metaboxes.php:59
+msgid "Video (WEBM):"
+msgstr ""
+
+#: admin/metaboxes.php:62
+msgid "Link Name"
+msgstr ""
+
+#: admin/metaboxes.php:63
+msgid "Link"
+msgstr ""
+
+#: admin/metaboxes.php:72
+msgid "Title Text Color"
+msgstr ""
+
+#: admin/metaboxes.php:73
+msgid "Description Text Color"
+msgstr ""
+
+#: admin/metaboxes.php:74
+msgid "Link Text Color"
+msgstr ""
+
+#: admin/metaboxes.php:74
+msgid "Default is #3B95B1."
+msgstr ""
+
+#: admin/metaboxes.php:76
+msgid "Cursor color"
+msgstr ""
+
+#: admin/metaboxes.php:76
+msgid "White"
+msgstr ""
+
+#: admin/metaboxes.php:76
+msgid "Black"
+msgstr ""
+
+#: admin/metaboxes.php:91
+msgid "(main portfolio page)"
+msgstr ""
+
+#: admin/metaboxes.php:97
+msgid "Thumbnail image:"
+msgstr ""
+
+#: admin/metaboxes.php:97
+msgid "Manage your slides here."
+msgstr ""
+
+#: admin/metaboxes.php:98
+msgid "Thumbnail image"
+msgstr ""
+
+#: admin/metaboxes.php:98
+msgid ""
+"<b>Thumbnail link and mouse over color.</b> If your thumbnail is supposed to "
+"be small (220x150px) (see drop-down below for list of dimensions) then "
+"please either upload 220x150px or 440x300px (to make it sharp on Retina "
+"displays please use twice as large numbers). Hosting thumbnails on your own "
+"server is recommended. If you specify external URL then to process such "
+"image your server will need to download it first - the script does this, too "
+"as long as this server supports any file operations like \"file open\". If "
+"not - please contact Server Administrator and/or our support."
+msgstr ""
+
+#: admin/metaboxes.php:99
+msgid "Thumbnail mouse over color:"
+msgstr ""
+
+#: admin/metaboxes.php:99
+msgid ""
+"Pick some color that will be used as mouse over color for this project's "
+"thumbnail on front page."
+msgstr ""
+
+#: admin/metaboxes.php:100
+msgid "Display Cover Slide"
+msgstr ""
+
+#: admin/metaboxes.php:100
+msgid "Display"
+msgstr ""
+
+#: admin/metaboxes.php:100
+msgid "Don't display"
+msgstr ""
+
+#: admin/metaboxes.php:100
+msgid ""
+"Cover slide enables user to read about project while images are loading."
+msgstr ""
+
+#: admin/metaboxes.php:101
+msgid ""
+"You can add title to your post using this custom field. It will be displayed "
+"above post. It's not very useful for posts but it's useful for pages. I "
+"don't recommend using this field for posts but it's here for your "
+"convenience."
+msgstr ""
+
+#: admin/metaboxes.php:102 admin/metaboxes.php:103
+msgid ""
+"You can add description to your post using this custom field. It will be "
+"displayed above post. It's not very useful for posts but it's useful for "
+"pages. I don't recommend using this field for posts but it's here for your "
+"convenience."
+msgstr ""
+
+#: admin/metaboxes.php:104
+msgid "Project date"
+msgstr ""
+
+#: admin/metaboxes.php:104
+msgid ""
+"Date - use any date format but please keep it consistend in other projects "
+"too. If you can't choose any format I suggest this: dd.mm.yyyy (like "
+"20.07.2011). (will be displayed in description)."
+msgstr ""
+
+#: admin/metaboxes.php:105
+msgid "Project client"
+msgstr ""
+
+#: admin/metaboxes.php:105
+msgid "Client name (will be displayed in description)."
+msgstr ""
+
+#: admin/metaboxes.php:106
+msgid "Project agency"
+msgstr ""
+
+#: admin/metaboxes.php:106
+msgid "Agency name (will be displayed in description)."
+msgstr ""
+
+#: admin/metaboxes.php:107
+msgid "Project role"
+msgstr ""
+
+#: admin/metaboxes.php:107
+msgid ""
+"Your role (will be displayed in description). Please use &lt;br&gt; HTML tag "
+"to add multi-line roles (&lt;br&gt; starts new line)."
+msgstr ""
+
+#: admin/metaboxes.php:108
+msgid "Thumbnail External Link (optional)"
+msgstr ""
+
+#: admin/metaboxes.php:108
+msgid ""
+"You can make the thumbnail link somewhere (like a blog post or external "
+"website). Specifying a link here will disable all portfolio functionality, "
+"your thumbnail will link to an external place and you will not be able to "
+"access the project directly."
+msgstr ""
+
+#: admin/metaboxes.php:109
+msgid "Open link in a new window?"
+msgstr ""
+
+#: admin/metaboxes.php:109
+msgid ""
+"This option works only if you have specified external link for this "
+"thumbnail."
+msgstr ""
+
+#: admin/metaboxes.php:109
+msgid "Same window"
+msgstr ""
+
+#: admin/metaboxes.php:109
+msgid "New window"
+msgstr ""
+
+#: admin/metaboxes.php:110
+msgid "Back button"
+msgstr ""
+
+#: admin/metaboxes.php:110
+msgid ""
+"Back button usually goes back to the homepage when you enter project "
+"directly (not through portfolio page). If homepage is not your portfolio "
+"page - please set different back button location here. The portfolio page "
+"that you link this entry to must contain this project (it can't be present "
+"in its excluded categories) - otherwise the project will be blank."
+msgstr ""
+
+#: admin/metaboxes.php:144
+msgid "Portfolio Type"
+msgstr ""
+
+#: admin/metaboxes.php:144
+msgid "Text and thumbnail portfolio pages are supported."
+msgstr ""
+
+#: admin/metaboxes.php:144
+msgid "Thumbnails"
+msgstr ""
+
+#: admin/metaboxes.php:144
+msgid "Text"
+msgstr ""
+
+#: admin/metaboxes.php:145
+msgid "Operator for categories box"
+msgstr ""
+
+#: admin/metaboxes.php:145
+msgid ""
+"You can make below box INCLUDE only selected categories or EXCLUDE selected "
+"categories. When you're using INCLUDE you must select at least two "
+"categories. If you will not select any categories it's going to display "
+"everything."
+msgstr ""
+
+#: admin/metaboxes.php:145
+msgid "Exclude"
+msgstr ""
+
+#: admin/metaboxes.php:145
+msgid "Include"
+msgstr ""
+
+#: admin/metaboxes.php:146
+msgid "Exclude portfolio categories"
+msgstr ""
+
+#: admin/metaboxes.php:146
+msgid ""
+"Select categories that should be excluded from this portfolio page. You can "
+"select multiple categories if you hold Ctrl / CMD and click on them."
+msgstr ""
+
+#: admin/metaboxes.php:147
+msgid "Thumbnails order by"
+msgstr ""
+
+#: admin/metaboxes.php:147
+msgid "Default: date."
+msgstr ""
+
+#: admin/metaboxes.php:148
+msgid "Thumbnails order"
+msgstr ""
+
+#: admin/metaboxes.php:148
+msgid "Default: DESC."
+msgstr ""
+
+#: admin/metaboxes.php:151
+msgid "Loop through selected category projects only?"
+msgstr ""
+
+#: admin/metaboxes.php:151
+msgid "No"
+msgstr ""
+
+#: admin/metaboxes.php:151
+msgid "Yes"
+msgstr ""
+
+#: admin/metaboxes.php:151
+msgid ""
+"By default entering project will make left/right arrows go to the next "
+"project regardless of what category is it in. Select this to yes if you want "
+"arrows to loop through projects from currently selected category only. This "
+"does not work for \"Recent Projects\" component because it does not have "
+"filter and thus it is always set to \"all\" categories (you can exlucde some "
+"of them on this page). Entering any project using that module will make left/"
+"right arrows go through entire portfolio."
+msgstr ""
+
+#: admin/metaboxes.php:152
+msgid "Boundary arrows disappear or loop from the start/end?"
+msgstr ""
+
+#: admin/metaboxes.php:152
+msgid "Loop"
+msgstr ""
+
+#: admin/metaboxes.php:152
+msgid "Do not loop"
+msgstr ""
+
+#: admin/metaboxes.php:152
+msgid ""
+"When user sees the first/last project in current projects set should the "
+"first/last arrow disappear or should it be looped?"
+msgstr ""
+
+#: admin/metaboxes.php:156
+msgid ""
+"You can add description to your page using this custom field. It will be "
+"displayed above page. It's optional."
+msgstr ""
+
+#: admin/metaboxes.php:157
+msgid "No boundaries"
+msgstr ""
+
+#: admin/metaboxes.php:157
+msgid "Pick page layout here."
+msgstr ""
+
+#: admin/metaboxes.php:164
+msgid "Background image:"
+msgstr ""
+
+#: admin/metaboxes.php:165
+msgid "Background color:"
+msgstr ""
+
+#: admin/metaboxes.php:165
+msgid ""
+"Pick background color here. If you're not planning to use background image "
+"you should set some color instead. It should be in this format: "
+"<strong>#ffffff</strong> (for white background)."
+msgstr ""
+
+#: admin/metaboxes.php:166 admin/page-styling.php:61
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/metaboxes.php:166 admin/metaboxes.php:167 admin/page-main.php:95
+msgid "Disable"
+msgstr ""
+
+#: admin/metaboxes.php:166
+msgid "Scroll (Default)"
+msgstr ""
+
+#: admin/metaboxes.php:166
+msgid "Fixed"
+msgstr ""
+
+#: admin/metaboxes.php:166
+msgid ""
+"Scroll - the background image scrolls with the rest of the page. Fixed - the "
+"background image is fixed."
+msgstr ""
+
+#: admin/metaboxes.php:167 admin/page-styling.php:43
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/metaboxes.php:167
+msgid "Repeat"
+msgstr ""
+
+#: admin/metaboxes.php:167
+msgid "No-repeat"
+msgstr ""
+
+#: admin/metaboxes.php:167
+msgid "Repeat X"
+msgstr ""
+
+#: admin/metaboxes.php:167
+msgid "Repeat Y"
+msgstr ""
+
+#: admin/metaboxes.php:168
+msgid "Background Position"
+msgstr ""
+
+#: admin/metaboxes.php:168
+msgid ""
+"Use like: left top OR center center OR 20% 20% OR center etc. Default: left "
+"top."
+msgstr ""
+
+#: admin/metaboxes.php:169
+msgid "Background Size"
+msgstr ""
+
+#: admin/metaboxes.php:169
+msgid ""
+"Use like: 100px 100px OR 10px 150px OR 200px OR 50% OR 100% 100% OR cover OR "
+"contain etc. Default: auto."
+msgstr ""
+
+#: admin/page-main.php:6 admin/page-styling.php:841
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: admin/page-main.php:61
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/page-main.php:64
+msgid "General Settings"
+msgstr ""
+
+#: admin/page-main.php:70
+msgid "Logo"
+msgstr ""
+
+#: admin/page-main.php:74 admin/page-styling.php:629
+#: admin/page-styling.php:645
+msgid "Upload"
+msgstr ""
+
+#: admin/page-main.php:77
+msgid ""
+"WordPress will display text logo and tagline unless you put a link to image "
+"logo here. Allowed formats: PNG, JPG, GIF, ICO, SVG. Recommended size (demo "
+"size): around 150x40px. Text logo and tagline can be modified under "
+"[Settings > General]."
+msgstr ""
+
+#: admin/page-main.php:82
+msgid "Featured Slideshow"
+msgstr ""
+
+#: admin/page-main.php:94
+msgid "Enable"
+msgstr ""
+
+#: admin/page-main.php:97
+msgid ""
+"You can add slides in [Slideshow > Add New]. This slideshow support images "
+"and HTML5 videos and can be displayed before user sees a homepage. At least "
+"two slides are required for it to show up."
+msgstr ""
+
+#: admin/page-main.php:102
+msgid "Main Portfolio Page"
+msgstr ""
+
+#: admin/page-main.php:103
+msgid "None"
+msgstr ""
+
+#: admin/page-main.php:109
+msgid ""
+"Your main portfolio page.<br>1. \"Back\" button of each project will link to "
+"this portfolio page if nothing else is specified under [Portfolio > (a "
+"project) > Back Button].<br>2. \"View Portfolio\" button in \"Classic "
+"Homepage\" will link to this page.<br>3. This must be a page with "
+"\"Portfolio Template\" selected."
+msgstr ""
+
+#: admin/page-main.php:114
+msgid "Footer Layout"
+msgstr ""
+
+#: admin/page-main.php:137
+#, php-format
+msgid ""
+"A comma-separated list of grid system CSS classes.<br><b>Example:</b> 4 "
+"equal columns - <code>grid_3, grid_3, grid_3, grid_3 last</code>."
+"<br><b>Default:</b> <code>grid_12 last widget_no_margin, grid_6, grid_6 "
+"last</code><br>When you create a column, new widget area is created in "
+"[Appearance > Widgets]. Once you're done please <a href=\"%s\" target="
+"\"_blank\">add widgets</a> to footer columns."
+msgstr ""
+
+#: admin/page-main.php:142
+msgid "Body Classes"
+msgstr ""
+
+#: admin/page-main.php:145
+msgid ""
+"Space separated list of additional CSS classes that should be added to the "
+"<code>body</code> tag."
+msgstr ""
+
+#: admin/page-main.php:154
+msgid "Slide Classes (defaults)"
+msgstr ""
+
+#: admin/page-main.php:157
+msgid ""
+"Space separated list of default image slide classes. These will be used if a "
+"slide does not have any CSS classes specified. If it has any CSS classes "
+"specified, these will be ignored altogether."
+msgstr ""
+
+#: admin/page-main.php:162
+msgid "Slide Classes"
+msgstr ""
+
+#: admin/page-main.php:165
+msgid ""
+"Space separated list of additional image slide classes. They will be added "
+"for each image slide and they can not be overwritten."
+msgstr ""
+
+#: admin/page-main.php:181
+msgid "Save Changes"
+msgstr ""
+
+#: admin/page-main.php:185
+msgid "Uninstall the Theme"
+msgstr ""
+
+#: admin/page-main.php:190
+msgid ""
+"Do you really want to remove all the theme settings from the database? This "
+"can not be undone."
+msgstr ""
+
+#: admin/page-main.php:197
+msgid "Clean the Database"
+msgstr ""
+
+#: admin/page-main.php:199
+msgid ""
+"<strong>Deletes all theme settings from the database</strong><br>When you "
+"deactivate the theme, settings aren't removed - just in case you wanted to "
+"re-activate it. To permanently remove them please click this button. This "
+"can not be undone. Demo settings will be imported again once you re-activate "
+"the theme. This does not remove posts, pages, projects, media library items "
+"etc. It only removes theme settings."
+msgstr ""
+
+#: admin/page-styling.php:20
+msgid "Global Background"
+msgstr ""
+
+#: admin/page-styling.php:29
+msgid "Background Color"
+msgstr ""
+
+#: admin/page-styling.php:36
+msgid "Background Image"
+msgstr ""
+
+#: admin/page-styling.php:49
+msgid "Background Position (vertiacal)"
+msgstr ""
+
+#: admin/page-styling.php:55
+msgid "Background Position (horizontal)"
+msgstr ""
+
+#: admin/page-styling.php:864
+msgid "Settings saved."
+msgstr ""
+
+#: admin/page-styling.php:957
+msgid "Custom CSS Code"
+msgstr ""
+
+#: admin/page-styling.php:960
+msgid ""
+"Custom CSS code that will be printed after all other stylesheets. Child "
+"themes should be generally used instead of this field and instead of options "
+"on this page."
+msgstr ""
+
+#: admin/page-styling.php:972
+msgid "Update Settings"
+msgstr ""
+
+#: admin/pages.php:6
+msgid "Konzept"
+msgstr ""
+
+#: admin/pages.php:7
+msgid "General"
+msgstr ""
+
+#: admin/pages.php:11
+msgid "Styling"
+msgstr ""
+
+#: admin/superslide/superslide.php:15
+msgid "Slide Image"
+msgstr ""
+
+#: admin/superslide/superslide.php:16
+msgid "Image Alternative Text"
+msgstr ""
+
+#: admin/superslide/superslide.php:17
+msgid "Slide Description (optional)"
+msgstr ""
+
+#: admin/superslide/superslide.php:17
+msgid ""
+"Description will be displayed in the bottom left corner of each image. Keep "
+"it short. Use &lt;h4&gt; HTML tag to define heading.<br>Example:<br><b>&lt;"
+"h4&gt;Slide Title&lt;/h4&gt;<br>&lt;p&gt;Project description.&lt;/p&gt;"
+msgstr ""
+
+#: admin/superslide/superslide.php:18 admin/superslide/superslide.php:34
+#: admin/superslide/superslide.php:48 admin/superslide/superslide.php:62
+#: admin/superslide/superslide.php:74
+msgid "CSS class(es)"
+msgstr ""
+
+#: admin/superslide/superslide.php:29
+msgid "Slide video (MP4):"
+msgstr ""
+
+#: admin/superslide/superslide.php:30
+msgid "Slide video (OGG):"
+msgstr ""
+
+#: admin/superslide/superslide.php:31
+msgid "Slide video (WEBM):"
+msgstr ""
+
+#: admin/superslide/superslide.php:32
+msgid "Slide video (Poster):"
+msgstr ""
+
+#: admin/superslide/superslide.php:33 admin/superslide/superslide.php:47
+#: admin/superslide/superslide.php:61
+msgid ""
+"Optional video description that will be displayed below the video. Keep it "
+"short. Use &lt;h4&gt; HTML tag to define heading.<br>Example:<br><b>&lt;"
+"h4&gt;Slide Title&lt;/h4&gt;<br>&lt;p&gt;Project description.&lt;/p&gt;"
+msgstr ""
+
+#: admin/superslide/superslide.php:45 admin/superslide/superslide.php:59
+msgid "Slide video:"
+msgstr ""
+
+#: admin/superslide/superslide.php:46 admin/superslide/superslide.php:60
+msgid "Video Poster:"
+msgstr ""
+
+#: admin/superslide/superslide.php:73 admin/superslide/superslide.php:361
+msgid "Custom Code"
+msgstr ""
+
+#: admin/superslide/superslide.php:270
+msgid "Slide management"
+msgstr ""
+
+#: admin/superslide/superslide.php:272
+msgid "Add Image Slide"
+msgstr ""
+
+#: admin/superslide/superslide.php:273
+msgid "Add Self-hosted Video"
+msgstr ""
+
+#: admin/superslide/superslide.php:274
+msgid "Add Vimeo Video"
+msgstr ""
+
+#: admin/superslide/superslide.php:275
+msgid "Add YouTube Video"
+msgstr ""
+
+#: admin/superslide/superslide.php:276
+msgid "Add Custom Code"
+msgstr ""
+
+#: admin/superslide/superslide.php:278
+msgid "Shuffle Slides"
+msgstr ""
+
+#: admin/superslide/superslide.php:279
+msgid "Media Library"
+msgstr ""
+
+#: admin/superslide/superslide.php:346
+msgid "Internal"
+msgstr ""
+
+#: admin/superslide/superslide.php:351 admin/superslide/superslide.php:356
+msgid "External"
+msgstr ""
+
+#: admin/superslide/superslide.php:373
+msgid "Click here to display SuperSlide output as raw code"
+msgstr ""
+
+#: admin/superslide/superslide.php:406
+msgid "Are you sure you want to remove it? You will not be able to restore it."
+msgstr ""
+
+#: admin/superslide/superslide.php:707
+msgid "This slide has no image. Would you like to remove it?"
+msgstr ""
+
+#: core/comments.php:10
+msgid "Name"
+msgstr ""
+
+#: core/comments.php:11
+msgid "Email"
+msgstr ""
+
+#: core/comments.php:12
+msgid "Website"
+msgstr ""
+
+#: core/comments.php:25
+msgid "Comment"
+msgstr ""
+
+#: core/nav.php:16
+msgid "Posts navigation"
+msgstr ""
+
+#: core/nav.php:18
+msgid "Older Entries"
+msgstr ""
+
+#: core/nav.php:21
+msgid "Newer Entries"
+msgstr ""
+
+#: core/nav.php:45
+msgid "Post navigation"
+msgstr ""
+
+#: core/sidebars.php:16
+#, php-format
+msgid "Sidebar %d"
+msgstr ""
+
+#: core/sidebars.php:40
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: core/sidebars.php:42
+#, php-format
+msgid "This footer column has the following CSS classes: %s"
+msgstr ""
+
+#: core/wp-title.php:26
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: core/auto-install/auto-install.php:20
+msgid "<strong>Demo Content Importer</strong>"
+msgstr ""
+
+#: core/auto-install/auto-install.php:21
+msgid ""
+"Would you like to delete all current posts, pages, projects, slides, other "
+"custom post type posts, comments, categories, menus, widgets and import demo "
+"content for your current theme? Media library items will not be removed. If "
+"this is a fresh installation of WordPress you can safely do that. Please "
+"skip setup otherwise."
+msgstr ""
+
+#: core/auto-install/auto-install.php:23
+msgid "Install Demo"
+msgstr ""
+
+#: core/auto-install/auto-install.php:23
+msgid "Skip Setup"
+msgstr ""
+
+#: core/auto-install/auto-install.php:39
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the installer now? It can not be undone."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:164 core/plugins/init.php:119
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:165 core/plugins/init.php:120
+msgid "Install Plugins"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:166 core/plugins/init.php:121
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:178
+#: core/plugins/class-tgm-plugin-activation.php:490 core/plugins/init.php:133
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:179
+#: core/plugins/class-tgm-plugin-activation.php:1846 core/plugins/init.php:134
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:517
+#: core/plugins/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1956
+#: core/plugins/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1956
+#: core/plugins/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/plugins/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/plugins/init.php:122
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/plugins/init.php:135
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/post-types/news-post-type.php:6 core/post-types/news-post-type.php:17
+msgid "News"
+msgstr ""
+
+#: core/post-types/news-post-type.php:7
+msgid "News Item"
+msgstr ""
+
+#: core/post-types/news-post-type.php:8
+#: core/post-types/portfolio-post-type.php:8
+msgid "Add New"
+msgstr ""
+
+#: core/post-types/news-post-type.php:9
+msgid "Add New News Item"
+msgstr ""
+
+#: core/post-types/news-post-type.php:10
+msgid "Edit News Item"
+msgstr ""
+
+#: core/post-types/news-post-type.php:11
+msgid "New News Item"
+msgstr ""
+
+#: core/post-types/news-post-type.php:12
+msgid "View News Item"
+msgstr ""
+
+#: core/post-types/news-post-type.php:13
+msgid "Search News Items"
+msgstr ""
+
+#: core/post-types/news-post-type.php:14
+msgid "No news items found"
+msgstr ""
+
+#: core/post-types/news-post-type.php:15
+msgid "No news items found in Trash"
+msgstr ""
+
+#: core/post-types/news-post-type.php:28
+msgid "News Categories"
+msgstr ""
+
+#: core/post-types/news-post-type.php:29
+msgid "News Category"
+msgstr ""
+
+#: core/post-types/news-post-type.php:30
+#: core/post-types/portfolio-post-type.php:32
+msgid "Search Categories"
+msgstr ""
+
+#: core/post-types/news-post-type.php:31
+#: core/post-types/portfolio-post-type.php:33
+msgid "Popular Categories"
+msgstr ""
+
+#: core/post-types/news-post-type.php:32
+#: core/post-types/portfolio-post-type.php:34
+msgid "All Categories"
+msgstr ""
+
+#: core/post-types/news-post-type.php:35
+msgid "Edit News Category"
+msgstr ""
+
+#: core/post-types/news-post-type.php:36
+msgid "Update News Category"
+msgstr ""
+
+#: core/post-types/news-post-type.php:37
+msgid "Add New News Category"
+msgstr ""
+
+#: core/post-types/news-post-type.php:38
+msgid "New News Category Name"
+msgstr ""
+
+#: core/post-types/news-post-type.php:39
+msgid "Separate News category with commas"
+msgstr ""
+
+#: core/post-types/news-post-type.php:40
+msgid "Add or remove news category"
+msgstr ""
+
+#: core/post-types/news-post-type.php:41
+msgid "Choose from the most used news category"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:6
+#: core/post-types/portfolio-post-type.php:17
+msgid "Portfolio"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:7
+msgid "Portfolio Item"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:9
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:10
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:11
+msgid "New Portfolio Item"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:12
+msgid "View Portfolio Item"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:13
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:14
+msgid "No portfolio items found"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:15
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:30
+msgid "Portfolio Categories"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:31
+msgid "Portfolio Category"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:37
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:38
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:39
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:40
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:41
+msgid "Separate Portfolio category with commas"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:42
+msgid "Add or remove portfolio category"
+msgstr ""
+
+#: core/post-types/portfolio-post-type.php:43
+msgid "Choose from the most used portfolio category"
+msgstr ""
+
+#: core/post-types/slideshow-post-type.php:6
+#: core/post-types/slideshow-post-type.php:17
+msgid "Slideshow"
+msgstr ""
+
+#: core/post-types/slideshow-post-type.php:7
+msgid "Slideshow Item"
+msgstr ""
+
+#: core/post-types/slideshow-post-type.php:8
+#: core/post-types/slideshow-post-type.php:9
+msgid "Add New Slide"
+msgstr ""
+
+#: core/post-types/slideshow-post-type.php:10
+msgid "Edit Slide"
+msgstr ""
+
+#: core/post-types/slideshow-post-type.php:11
+msgid "New Slide"
+msgstr ""
+
+#: core/post-types/slideshow-post-type.php:12
+msgid "View Slide"
+msgstr ""
+
+#: core/post-types/slideshow-post-type.php:13
+msgid "Search Slides"
+msgstr ""
+
+#: core/post-types/slideshow-post-type.php:14
+msgid "No slides found"
+msgstr ""
+
+#: core/post-types/slideshow-post-type.php:15
+msgid "No slides found in Trash"
+msgstr ""

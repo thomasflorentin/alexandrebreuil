@@ -84,25 +84,18 @@ class Ai1wm_Cron {
 	/**
 	 * Checks whether cronjob already exists
 	 *
-	 * @param  string $hook Event hook
-	 * @param  array  $args Event callback arguments
+	 * @param  string  $hook Event hook
 	 * @return boolean
 	 */
-	public static function exists( $hook, $args = array() ) {
+	public static function exists( $hook ) {
 		$cron = get_option( AI1WM_CRON, array() );
 		if ( empty( $cron ) ) {
 			return false;
 		}
 
 		foreach ( $cron as $timestamp => $hooks ) {
-			if ( empty( $args ) ) {
-				if ( isset( $hooks[ $hook ] ) ) {
-					return true;
-				}
-			} else {
-				if ( isset( $hooks[ $hook ][ md5( serialize( $args ) ) ] ) ) {
-					return true;
-				}
+			if ( isset( $hooks[ $hook ] ) ) {
+				return true;
 			}
 		}
 
